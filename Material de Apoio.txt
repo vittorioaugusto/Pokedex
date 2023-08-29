@@ -1,0 +1,2 @@
+https://pokeapi.co/
+https://github.com/digitalinnovationone/js-developer-pokedex
