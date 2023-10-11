@@ -4,14 +4,25 @@
 }
 
 body{
-    background-color: #f6f8fc;
+    background-image: url(https://guikao.files.wordpress.com/2012/01/pokemon_wallpaper01_1680.jpg);
 }
 
-.content{
+.content {
     width: 100vw;
     height: 100vh;
     padding: 1rem;
-    background-color: #fff;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-image: url(https://st2.depositphotos.com/3213441/12022/v/600/depositphotos_120226584-stock-illustration-pokemon-go-pokeball-seamless-texture.jpg);
+}
+
+h1 {
+    font-size: 36px;
+    background-color: rgb(200, 200, 200); 
+    padding: 10px 20px;
+    border-radius: 10px;
 }
 
 @media screen and (min-width: 992px) {
